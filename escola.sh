@@ -67,5 +67,4 @@ done
 
 # escreveram este programa:
 # angela ferreira
-# Fernando Graeff Machado
-# joao clovis
+# eder alves de souza
